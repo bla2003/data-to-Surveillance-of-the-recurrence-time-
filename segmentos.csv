@@ -1,0 +1,74 @@
+Region;Fecha.Min;Fecha.Max;Color
+Arica y Parinacota;03-03-2020;07-05-2020;red
+Arica y Parinacota;07-05-2020;30-06-2020;blue
+Arica y Parinacota;30-06-2020;24-08-2020;red
+Arica y Parinacota;24-08-2020;31-10-2020;blue
+Arica y Parinacota;31-10-2020;08-01-2021;red
+Arica y Parinacota;08-01-2021;03-03-2021;blue
+Tarapaca;03-03-2020;13-05-2020;red
+Tarapaca;13-05-2020;30-07-2020;blue
+Tarapaca;30-07-2020;29-12-2020;red
+Tarapaca;29-12-2020;03-03-2021;blue
+Antofagasta;03-03-2020;03-06-2020;red
+Antofagasta;03-06-2020;27-07-2020;blue
+Antofagasta;27-07-2020;19-09-2020;red
+Antofagasta;19-09-2020;06-01-2021;blue
+Antofagasta;06-01-2021;03-03-2021;red
+Atacama;03-03-2020;30-05-2020;red
+Atacama;30-05-2020;23-07-2020;blue
+Atacama;23-07-2020;15-09-2020;red
+Atacama;15-09-2020;08-11-2020;blue
+Atacama;08-11-2020;06-01-2021;red
+Atacama;06-01-2021;03-03-2021;blue
+Coquimbo;03-03-2020;25-05-2020;red
+Coquimbo;25-05-2020;18-07-2020;blue
+Coquimbo;18-07-2020;15-09-2020;red
+Coquimbo;15-09-2020;08-01-2021;blue
+Coquimbo;08-01-2021;03-03-2021;red
+Valparaiso;03-03-2020;25-05-2020;red
+Valparaiso;25-05-2020;18-07-2020;blue
+Valparaiso;18-07-2020;19-09-2020;red
+Valparaiso;19-09-2020;30-12-2020;blue
+Valparaiso;30-12-2020;03-03-2021;red
+Metropolitana;03-03-2020;12-05-2020;red
+Metropolitana;12-05-2020;05-07-2020;ble
+Metropolitana;05-07-2020;30-08-2020;red
+Metropolitana;30-08-2020;30-12-2020;blue
+Metropolitana;30-12-2020;03-03-2021;red
+OHiggins;03-03-2020;05-06-2020;red
+OHiggins;05-06-2020;29-07-2020;blue
+OHiggins;29-07-2020;19-10-2020;red
+OHiggins;19-10-2020;05-01-2021;blue
+OHiggins;05-01-2021;03-03-2021;red
+Maule;03-03-2020;02-06-2020;red
+Maule;02-06-2020;12-10-2020;blue
+Maule;12-10-2020;23-12-2020;red
+Maule;23-12-2020;03-03-2021;blue
+Nuble;03-03-2020;22-05-2020;red
+Nuble;22-05-2020;19-08-2020;blue
+Nuble;19-08-2020;23-12-2020;red
+Nuble;23-12-2020;03-03-2021;blue
+Biobio;03-03-2020;09-06-2020;red
+Biobio;09-06-2020;19-08-2020;blue
+Biobio;19-08-2020;11-11-2020;red
+Biobio;11-11-2020;06-01-2021;blue
+Biobio;06-01-2021;03-03-2021;red
+Araucania;03-03-2020;05-08-2020;red
+Araucania;05-08-2020;29-09-2020;blue
+Araucania;29-09-2020;07-01-2021;red
+Araucania;07-01-2021;03-03-2021;blue
+Los Rios;03-03-2020;05-09-2020;red
+Los Rios;05-09-2020;29-10-2020;blue
+Los Rios;29-10-2020;06-01-2021;red
+Los Rios;06-01-2021;03-03-2021;blue
+Los Lagos;03-03-2020;01-07-2020;red
+Los Lagos;01-07-2020;24-09-2020;blue
+Los Lagos;24-09-2020;06-01-2021;red
+Los Lagos;06-01-2021;03-03-2021;blue
+Aysen;03-03-2020;09-09-2020;red
+Aysen;09-09-2020;02-11-2020;blue
+Aysen;02-11-2020;27-12-2020;red
+Aysen;27-12-2020;03-03-2021;blue
+Magallanes;03-03-2020;20-08-2020;red
+Magallanes;20-08-2020;13-10-2020;blue
+Magallanes;13-10-2020;03-03-2021;red
